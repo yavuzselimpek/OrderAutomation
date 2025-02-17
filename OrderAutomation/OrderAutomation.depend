@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1739805777 source:d:\project_c\orderauto\orderautomation\main.c
+	<stdio.h>
+	<stdlib.h>
+	"customer.h"
+	"product.h"
+	"order.h"
+
+1739794092 source:d:\project_c\orderauto\orderautomation\costomer.c
+	"customer.h"
+
+1739798496 d:\project_c\orderauto\orderautomation\customer.h
+
+1739795175 source:d:\project_c\orderauto\orderautomation\order.c
+	"order.h"
+
+1739795174 d:\project_c\orderauto\orderautomation\order.h
+
+1739795074 source:d:\project_c\orderauto\orderautomation\product.c
+	"product.h"
+
+1739795075 d:\project_c\orderauto\orderautomation\product.h
+
+1739818752 source:d:\project_c\orderauto\orderautomation\customer.c
+	"customer.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
