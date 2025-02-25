@@ -4,7 +4,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-customer c1, c2;//global variable
+extern customer c1, c2;//global variable
 
 void addCustomer()
 {

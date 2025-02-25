@@ -11,17 +11,26 @@
 
 1739823332 d:\project_c\orderauto\orderautomation\customer.h
 
-1739823332 source:d:\project_c\orderauto\orderautomation\order.c
+1740148072 source:d:\project_c\orderauto\orderautomation\order.c
 	"order.h"
-
-1739823332 d:\project_c\orderauto\orderautomation\order.h
-
-1739823332 source:d:\project_c\orderauto\orderautomation\product.c
 	"product.h"
+	"customer.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1740142177 d:\project_c\orderauto\orderautomation\order.h
+
+1740142250 source:d:\project_c\orderauto\orderautomation\product.c
+	"product.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
 
 1739823332 d:\project_c\orderauto\orderautomation\product.h
 
-1739818752 source:d:\project_c\orderauto\orderautomation\customer.c
+1740138266 source:d:\project_c\orderauto\orderautomation\customer.c
 	"customer.h"
 	<stdio.h>
 	<stdlib.h>

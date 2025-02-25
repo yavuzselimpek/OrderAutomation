@@ -3,7 +3,7 @@
 
 typedef struct Order {
     int ID, cID, pID, piece, totalAmount;
-    char date[20];
+    char date[30];
 
 } order ;
 
@@ -14,5 +14,8 @@ void deleteOrder();
 
 int orderMenu();
 void orderProcess();
+int customerControl(int );
+int productControl(int,int);
+void productStockUpdate(int,int);
 
 #endif // ORDER_H_INCLUDED
